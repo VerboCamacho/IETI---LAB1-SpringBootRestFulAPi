@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.UUID;
 
 @RestController
-@RequestMapping( "/v1/user" )
+@RequestMapping( "/v2/task" )
 public class TaskController
 {
 
